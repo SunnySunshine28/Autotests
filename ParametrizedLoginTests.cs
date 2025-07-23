@@ -19,7 +19,14 @@ namespace TestProject1
         [SetUp]
         public void Setup()
         {
-            _driver = new ChromeDriver();
+            var options = new ChromeOptions();
+            options.AddArgument("--headless=new");
+            options.AddArgument("--no-sandbox");
+            options.AddArgument($"--user-data-dir={Path.GetTempPath()}/chrome_{Guid.NewGuid()}");
+            options.AddArgument("--remote-allow-origins=*");
+
+            _driver = new ChromeDriver(options);
+
             _loginPage = new LoginPage(_driver);
             _driver.Navigate().GoToUrl("https://practicetestautomation.com/practice-test-login/");
         }
