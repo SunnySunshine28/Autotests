@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\defge\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (11)\\Autotests\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2BA24C03-8654-436E-AD7A-468CF63E9A93}|TestProject1.csproj|c:\\users\\defge\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (11)\\autotests\\support\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA24C03-8654-436E-AD7A-468CF63E9A93}|TestProject1.csproj|solutionrelative:support\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA24C03-8654-436E-AD7A-468CF63E9A93}|TestProject1.csproj|c:\\users\\defge\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (11)\\autotests\\stepdefinitions\\ui\\loginsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA24C03-8654-436E-AD7A-468CF63E9A93}|TestProject1.csproj|solutionrelative:stepdefinitions\\ui\\loginsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA24C03-8654-436E-AD7A-468CF63E9A93}|TestProject1.csproj|c:\\users\\defge\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (11)\\autotests\\support\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA24C03-8654-436E-AD7A-468CF63E9A93}|TestProject1.csproj|solutionrelative:support\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2BA24C03-8654-436E-AD7A-468CF63E9A93}|TestProject1.csproj|c:\\users\\defge\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (11)\\autotests\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BA24C03-8654-436E-AD7A-468CF63E9A93}|TestProject1.csproj|solutionrelative:logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA24C03-8654-436E-AD7A-468CF63E9A93}|TestProject1.csproj|c:\\users\\defge\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (11)\\autotests\\features\\uitests\\login.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2BA24C03-8654-436E-AD7A-468CF63E9A93}|TestProject1.csproj|solutionrelative:features\\uitests\\login.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2BA24C03-8654-436E-AD7A-468CF63E9A93}|TestProject1.csproj|c:\\users\\defge\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (11)\\autotests\\parametrizedlogintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +35,8 @@
       "RelativeMoniker": "D:0:0:{2BA24C03-8654-436E-AD7A-468CF63E9A93}|TestProject1.csproj|solutionrelative:features\\apitests\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BA24C03-8654-436E-AD7A-468CF63E9A93}|TestProject1.csproj|c:\\users\\defge\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (11)\\autotests\\features\\uitests\\login.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{2BA24C03-8654-436E-AD7A-468CF63E9A93}|TestProject1.csproj|solutionrelative:features\\uitests\\login.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2BA24C03-8654-436E-AD7A-468CF63E9A93}|TestProject1.csproj|c:\\users\\defge\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (11)\\autotests\\features\\apitests\\userapi.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{2BA24C03-8654-436E-AD7A-468CF63E9A93}|TestProject1.csproj|solutionrelative:features\\apitests\\userapi.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BA24C03-8654-436E-AD7A-468CF63E9A93}|TestProject1.csproj|c:\\users\\defge\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (11)\\autotests\\stepdefinitions\\ui\\loginsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BA24C03-8654-436E-AD7A-468CF63E9A93}|TestProject1.csproj|solutionrelative:stepdefinitions\\ui\\loginsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2BA24C03-8654-436E-AD7A-468CF63E9A93}|TestProject1.csproj|c:\\users\\defge\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (11)\\autotests\\stepdefinitions\\api\\userapisteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,16 +47,8 @@
       "RelativeMoniker": "D:0:0:{2BA24C03-8654-436E-AD7A-468CF63E9A93}|TestProject1.csproj|solutionrelative:pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BA24C03-8654-436E-AD7A-468CF63E9A93}|TestProject1.csproj|c:\\users\\defge\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (11)\\autotests\\support\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BA24C03-8654-436E-AD7A-468CF63E9A93}|TestProject1.csproj|solutionrelative:support\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2BA24C03-8654-436E-AD7A-468CF63E9A93}|TestProject1.csproj|c:\\users\\defge\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (11)\\autotests\\stepdefinitions\\api\\calculatorsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BA24C03-8654-436E-AD7A-468CF63E9A93}|TestProject1.csproj|solutionrelative:stepdefinitions\\api\\calculatorsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BA24C03-8654-436E-AD7A-468CF63E9A93}|TestProject1.csproj|c:\\users\\defge\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (11)\\autotests\\support\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BA24C03-8654-436E-AD7A-468CF63E9A93}|TestProject1.csproj|solutionrelative:support\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -69,25 +69,21 @@
               "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ParametrizedLoginTests.cs",
               "DocumentMoniker": "C:\\Users\\defge\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (11)\\Autotests\\ParametrizedLoginTests.cs",
               "RelativeDocumentMoniker": "ParametrizedLoginTests.cs",
               "ToolTip": "C:\\Users\\defge\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (11)\\Autotests\\ParametrizedLoginTests.cs",
               "RelativeToolTip": "ParametrizedLoginTests.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T09:54:35.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "LoginPage.cs",
               "DocumentMoniker": "C:\\Users\\defge\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (11)\\Autotests\\Pages\\LoginPage.cs",
               "RelativeDocumentMoniker": "Pages\\LoginPage.cs",
@@ -99,27 +95,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "Hooks.cs",
               "DocumentMoniker": "C:\\Users\\defge\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (11)\\Autotests\\Support\\Hooks.cs",
               "RelativeDocumentMoniker": "Support\\Hooks.cs",
               "ToolTip": "C:\\Users\\defge\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (11)\\Autotests\\Support\\Hooks.cs",
               "RelativeToolTip": "Support\\Hooks.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T06:03:28.601Z"
+              "WhenOpened": "2025-07-21T06:03:28.601Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "LoginSteps.cs",
               "DocumentMoniker": "C:\\Users\\defge\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (11)\\Autotests\\StepDefinitions\\UI\\LoginSteps.cs",
               "RelativeDocumentMoniker": "StepDefinitions\\UI\\LoginSteps.cs",
               "ToolTip": "C:\\Users\\defge\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (11)\\Autotests\\StepDefinitions\\UI\\LoginSteps.cs",
               "RelativeToolTip": "StepDefinitions\\UI\\LoginSteps.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvzIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T05:57:00.765Z"
+              "WhenOpened": "2025-07-21T05:57:00.765Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -129,13 +127,14 @@
               "RelativeDocumentMoniker": "Features\\UiTests\\Login.feature",
               "ToolTip": "C:\\Users\\defge\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (11)\\Autotests\\Features\\UiTests\\Login.feature",
               "RelativeToolTip": "Features\\UiTests\\Login.feature",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-21T05:31:33.282Z"
+              "WhenOpened": "2025-07-21T05:31:33.282Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "UserAPISteps.cs",
               "DocumentMoniker": "C:\\Users\\defge\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (11)\\Autotests\\StepDefinitions\\Api\\UserAPISteps.cs",
               "RelativeDocumentMoniker": "StepDefinitions\\Api\\UserAPISteps.cs",
@@ -147,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "UserAPI.feature",
               "DocumentMoniker": "C:\\Users\\defge\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (11)\\Autotests\\Features\\ApiTests\\UserAPI.feature",
               "RelativeDocumentMoniker": "Features\\ApiTests\\UserAPI.feature",
@@ -159,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Calculator.feature",
               "DocumentMoniker": "C:\\Users\\defge\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (11)\\Autotests\\Features\\ApiTests\\Calculator.feature",
               "RelativeDocumentMoniker": "Features\\ApiTests\\Calculator.feature",
@@ -171,13 +170,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "LoginTests.cs",
               "DocumentMoniker": "C:\\Users\\defge\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (11)\\Autotests\\LoginTests.cs",
               "RelativeDocumentMoniker": "LoginTests.cs",
               "ToolTip": "C:\\Users\\defge\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (11)\\Autotests\\LoginTests.cs",
               "RelativeToolTip": "LoginTests.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T11:13:23.963Z",
               "EditorCaption": ""
@@ -185,6 +184,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\defge\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (11)\\Autotests\\Support\\Driver.cs",
+              "RelativeDocumentMoniker": "Support\\Driver.cs",
+              "ToolTip": "C:\\Users\\defge\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (11)\\Autotests\\Support\\Driver.cs",
+              "RelativeToolTip": "Support\\Driver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T06:03:18.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Calculator.cs",
               "DocumentMoniker": "C:\\Users\\defge\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (11)\\Autotests\\Calculator.cs",
               "RelativeDocumentMoniker": "Calculator.cs",
@@ -196,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "CalculatorSteps.cs",
               "DocumentMoniker": "C:\\Users\\defge\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (11)\\Autotests\\StepDefinitions\\Api\\CalculatorSteps.cs",
               "RelativeDocumentMoniker": "StepDefinitions\\Api\\CalculatorSteps.cs",
@@ -205,18 +221,6 @@
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T11:20:08.196Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Driver.cs",
-              "DocumentMoniker": "C:\\Users\\defge\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (11)\\Autotests\\Support\\Driver.cs",
-              "RelativeDocumentMoniker": "Support\\Driver.cs",
-              "ToolTip": "C:\\Users\\defge\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (11)\\Autotests\\Support\\Driver.cs",
-              "RelativeToolTip": "Support\\Driver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T06:03:18.63Z"
             }
           ]
         }

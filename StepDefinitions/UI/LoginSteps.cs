@@ -18,7 +18,7 @@ namespace TestProject1.StepDefinitions.UI
         [Given(@"Я открываю страницу логина ""(.*)""")]
         public void GivenOpenLoginPage(string url)
         {
-            Driver.Initialize();
+            //Driver.Initialize();
             Driver.WebDriver.Navigate().GoToUrl(url);
             _loginPage = new LoginPage(Driver.WebDriver);
             Assert.IsTrue(_loginPage.IsPageLoaded());
@@ -42,14 +42,13 @@ namespace TestProject1.StepDefinitions.UI
         {
             Assert.AreEqual("https://practicetestautomation.com/logged-in-successfully/",
                 Driver.WebDriver.Url);
-            Driver.Quit();
         }
 
         [Then(@"Должно отображаться сообщение об ошибке ""(.*)""")]
         public void ThenShouldSeeErrorMessage(string expectedError)
         {
             Assert.AreEqual(expectedError, _loginPage.GetErrorMessage());
-            Driver.Quit();
+            
         }
     }
 }

@@ -10,18 +10,32 @@ namespace TestProject1.Support
 {
     public static class Driver
     {
-        public static IWebDriver WebDriver { get; private set; }
+        private static ThreadLocal<IWebDriver> _driver = new ThreadLocal<IWebDriver>();
 
-        public static void Initialize()
+        public static IWebDriver WebDriver => _driver.Value ??= InitDriver();
+
+        private static IWebDriver InitDriver()
         {
-            WebDriver = new ChromeDriver();
-            WebDriver.Manage().Window.Maximize();
-            WebDriver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
+            var options = new ChromeOptions();
+            options.AddArguments(
+                "--headless=new",
+                "--no-sandbox",
+                "--disable-dev-shm-usage",
+                $"--user-data-dir=/tmp/chrome_{Guid.NewGuid()}",
+                "--remote-allow-origins=*"
+            );
+
+            return new ChromeDriver(options);
         }
 
         public static void Quit()
         {
-            WebDriver?.Quit();
+            if (_driver.IsValueCreated)
+            {
+                _driver.Value.Quit();
+                _driver.Value = null;
+            }
         }
     }
+
 }

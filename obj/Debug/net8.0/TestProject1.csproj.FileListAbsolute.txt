@@ -341,3 +341,4 @@ C:\Users\defge\Desktop\Новая папка (11)\Autotests\obj\Debug\net8.0\ref
 C:\Users\defge\Desktop\Новая папка (11)\Autotests\obj\Debug\net8.0\TestProject1.pdb
 C:\Users\defge\Desktop\Новая папка (11)\Autotests\obj\Debug\net8.0\TestProject1.genruntimeconfig.cache
 C:\Users\defge\Desktop\Новая папка (11)\Autotests\obj\Debug\net8.0\ref\TestProject1.dll
+C:\Users\defge\Desktop\Новая папка (11)\Autotests\obj\Debug\net8.0\TestProject1.sourcelink.json

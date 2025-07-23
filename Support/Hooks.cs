@@ -13,7 +13,7 @@ namespace TestProject1.Support
         [BeforeScenario("ui")] // Только для сценариев с тегом @ui
         public void BeforeUIScenario()
         {
-            Driver.Initialize();
+            //Driver.Initialize();
         }
 
         [AfterScenario("ui")]
